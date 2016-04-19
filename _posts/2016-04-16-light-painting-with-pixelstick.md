@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-19T22:23:58.599Z'
+datePublished: '2016-04-19T22:23:58.902Z'
 sourcePath: _posts/2016-04-16-light-painting-with-pixelstick.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/78163959'
@@ -11,7 +11,7 @@ author:
     url: 'http://vimeo.com/bitbangerlabs'
     avatar: {}
 published: true
-dateModified: '2016-04-19T22:23:56.834Z'
+dateModified: '2016-04-19T22:23:58.002Z'
 title: Light painting with pixelstick
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/78163959'
