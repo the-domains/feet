@@ -1,0 +1,14 @@
+layout_spectrum: 0.12867809180170298
+typography_spectrum: 0.2520684564951807
+color:
+  brandStrength: 0.6760592279024422
+  lightness: 0.3573651695623994
+  saturation: 0.4019343068357557
+  rhythmicContrast: 0.9279953690711409
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: feet
