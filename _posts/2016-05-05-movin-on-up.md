@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-20T03:13:38.031Z'
+datePublished: '2016-05-20T03:13:57.113Z'
 sourcePath: _posts/2016-05-05-movin-on-up.md
 author: []
-dateModified: '2016-05-20T03:13:37.374Z'
+dateModified: '2016-05-20T03:13:56.471Z'
 title: "Movin' on up!"
 description: Walking up the stairs
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
