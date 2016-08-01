@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[feet]]></title>
-        <description><![CDATA[feet]]></description>
+        <title><![CDATA[Shoes]]></title>
+        <description><![CDATA[Shoes]]></description>
         <link>https://thegrid.ai/feet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 21:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 03:14:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/feet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Movin' on up!]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/feet/movin-on-up/index.html</link>
             <guid isPermaLink="false">7d872bf0-ea47-4c23-ae7c-02b320671b0f</guid>
             <pubDate>Fri, 20 May 2016 03:13:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jon Stewart Takes Over Colbert's Late Show Desk]]></title>
-            <description><![CDATA[<article><h1>Jon Stewart Takes Over Colbert's Late Show Desk</h1><p>Some stories, like the ouster of Fox News chairman Roger Ailes, are too big for one late night host to tackle alone.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ab70058f4acecd5898109b8cea012246/croprotate.jpg?cropheight=288&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FmNiqpBNE9ik%2Fhqdefault.jpg&x=0&y=32"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=mNiqpBNE9ik&amp;feature=sha</link>
-            <guid isPermaLink="false">165d6722-6f91-4451-b950-b7014d6f2c7b</guid>
-            <pubDate>Wed, 27 Jul 2016 21:31:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
