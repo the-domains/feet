@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-05-20T03:13:57.113Z'
+datePublished: '2016-08-22T03:26:33.802Z'
 sourcePath: _posts/2016-05-05-movin-on-up.md
+inFeed: true
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/17c8f59c-623b-4ae4-8e10-e709bc49cab7.jpg
 author: []
-dateModified: '2016-05-20T03:13:56.471Z'
-title: "Movin' on up!"
+via: {}
+dateModified: '2016-08-22T03:26:33.382Z'
+title: Movin' on up!
+publisher: {}
 description: Walking up the stairs
 starred: true
-inFeed: true
-hasPage: true
-inNav: false
-url: movin-on-up/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![Walking up the stairs](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17c8f59c-623b-4ae4-8e10-e709bc49cab7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17c8f59c-623b-4ae4-8e10-e709bc49cab7.jpg)
